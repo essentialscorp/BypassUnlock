@@ -1,0 +1,6 @@
+id=autoconfirm4d
+name=AutoConfirm4D
+version=v1.0
+versionCode=1
+author=relzdev
+description=Auto-confirms a 4-digit PIN on Samsung One UI lockscreens using the built-in n_digits_pin_enabled setting. Action button toggles ON/OFF.
